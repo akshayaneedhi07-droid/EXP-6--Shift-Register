@@ -170,7 +170,7 @@ Q(next) = {Q[2:0], sin}
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected operation table.
 
 ## Output
-<img width="591" height="181" alt="image" src="https://github.com/user-attachments/assets/f27135f4-6a61-4a44-a099-9be11f7cd54b" />
+<img width="1912" height="1015" alt="Screenshot 2026-11-17 123601" src="https://github.com/user-attachments/assets/96dffbb9-c9f6-40a2-950f-87fb14f456dd" />
 
 ## Viva-Voce Questions
 
